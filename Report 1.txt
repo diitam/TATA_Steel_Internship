@@ -1,0 +1,42 @@
+***ABSTRACT***
+Big data not only means a huge amount of data but also a data which is high in variety.Recent times have seen a massive jump in the 
+amount of data available. It is difficult to gain valuable insights and knowledge from the datasets by traditional techniques. The rising trend 
+of data science in the past years has also meant a sharp rise in data analysis techniques. Modern tools and techniques save a lot of time in hefty 
+processes and allow to finish the work of days in minutes. This paper aims to analyze some of the different analytics methods and tools which 
+can be applied to big data, as well as the opportunities provided by the application of big data analytics in various decision domains. 
+Data Analysis is process of inspecting, cleansing, transforming, and modelling data to  discover useful information, informing conclusions, and 
+supporting decision-making. Data Analysis can be broadly classified into Quantitative Data Analysis and Qualitative data analysis. EDA 
+focuses on discovering new features in the data while CDA focuses on confirming or falsifying existing hypotheses. Predictive analytics focuses 
+on the application of statistical models for predictive forecasting or classification, while text analytics applies statistical, linguistic, and structural 
+techniques to extract and classify information from textual sources, a species of unstructured data.
+
+#KEYWORDS
+Data analysis, processing, cleaning, 
+
+***PROBLEM STATEMENT***
+
+Analysing Coils Data of Pickling Line. The objective of this project is to determine the best and the not ok coil among all the coils present in data 
+stored for 1 month. By writing Python Modules to inspect, clean & transform data, it is possible to make estimation of a possible range which is
+best to run a coil. It has been taken into account the fact that a coil may not always run in the given standard values for the respective parameters.
+This analysis helps to determine highly increasing or decreasing values present in the data.  
+
+***OBJECTIVE***  
+The main objective of data analysis is to arrange the constantly increasing data ranging from its highest value to its lowest value in organize 
+manner to derive valuable information. Organizing data aids to many statistical approaches and analysation of the information through 
+various viewpoints. To extract information in order to utilize the information gained to make better decisions. To implement various data analysis 
+techniques like Exploratory Data Analysis, Confirmatory Data Analysis etc.
+
+***HARDWARE REQUIREMENTS***
+•RAM: - 64 MB or above storage space 4 GB and more.
+•Processor Speed:-500 MHz and above
+•Processor:-Above x86
+
+***SOFTWARE REQUIREMENTS***
+•Web browser 
+•Windows 10
+•Jupyter Notebook
+•Microsoft Excel
+•Microsoft Power Bi
+•Python version 3.9.5 and above
+
+
